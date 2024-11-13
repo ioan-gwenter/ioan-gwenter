@@ -1,13 +1,10 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <div style="text-align: center;">
-          <div style="display: inline-block; text-align: left;">
-            <p>📫 <strong>Connect with me:</strong> <a href="mailto:ioangwenterwork@gmail.com">ioangwenterwork@gmail.com</a> <strong>or</strong> <a href="https://www.linkedin.com/in/ioan-gwenter/">LinkedIn</a></p>
-            <p>💡 <strong>View my Hackathon Projects:</strong> <a href="https://devpost.com/ioan-gwenter?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a></p>
-            <p>🤖 <strong>Get involved with MAI:</strong> <a href="https://manchesterstudentsunion.com/activities/view/ai-and-business">UoM AI and Business Society</a></p>
-        </div>
-      </div>
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>
 </svg>
