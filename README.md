@@ -1,4 +1,4 @@
-<h1 align="center">Whats up! I am Ioan!</h1>
+<h1 align="center">What's up! I am Ioan!</h1>
 <h3 align="center">I'm a final year CS Student at The University of Manchester, an avid rock climber and skater, and have a passion for hackathons!</h3>
 
 - 📫 Don't hesitate to reach out! : ioangwenterwork@gmail.com
