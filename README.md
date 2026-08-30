@@ -1,5 +1,5 @@
 <h1 align="center">What's Up : ) - I'm Ioan Gwenter!</h1>
-<h3 align="center">The University of Manchester Computer Science Graduate</h3>
+<h3 align="center">Now a Computer Science Graduate!</h3>
 <p align="center">A passionate rock climber 🧗‍♂️, skater 🛹, and hackathon enthusiast! 💡</p>
 
 ---
